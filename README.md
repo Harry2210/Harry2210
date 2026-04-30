@@ -1,7 +1,7 @@
 <!-- 🔥 CUSTOM BANNER (replace with your own later if you want) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Hariom%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Harish%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🔥 TYPING INTRO -->
