@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 Hariom Patel
+# 👨‍💻 Harish Patel
 
 ### 🚀 Android Developer | Web Developer | Creator
 
