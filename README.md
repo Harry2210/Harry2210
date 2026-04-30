@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harry2210&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/Harry2210?label=Followers&style=social" />
 </p>
 
 ---
@@ -26,31 +26,16 @@
 ## 🧠 About Me
 
 💡 I create apps that **solve real-life problems (especially distraction & productivity)**
-📱 Currently building **Mindful Blocker (Focus App)**
+📱 Currently building **Andrid apps 
 🌐 Developing **Syntax Sphere (Modern Web Platform)**
 🧠 Learning **.NET, C#, Machine Learning**
 ⚡ Focused on **clean UI + strong logic + real impact**
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 Mindful Blocker
-
-> A strict focus app that blocks distracting apps
-
-✨ Highlights:
-
-* ⛔ Blocks TikTok, Instagram, YouTube Shorts
-* 🔒 Cannot be turned off once started
-* ⏳ Smart 6-hour timer
-* 📢 Full-screen focus warning
-
----
-
 ### 🌐 Syntax Sphere
 
-> A modern platform for tools, downloads & resources
+> A modern platform for  downloads Free Softwares & online tools
 
 ✨ Highlights:
 
@@ -61,14 +46,6 @@
 
 ---
 
-## 🖼️ Project Preview (Add your screenshots later)
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Mindful+Blocker+App" />
-  <img src="https://via.placeholder.com/400x200.png?text=Syntax+Sphere+Website" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +58,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harry2210&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -89,8 +66,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry2210&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry2210&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -98,7 +75,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Harry2210&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -106,23 +83,30 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harry2210&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* ⚙️ ASP.NET & ADO.NET
-* 🧠 Machine Learning
-* 📱 Advanced Android UI/UX
+* ⚙️ ASP.NET & ADO.NET (Web Apps, APIs, Database Connectivity)
+* 🧠 Machine Learning (Supervised & Unsupervised Models)
+* 📱 Advanced Android UI/UX (Material Design, Animations)
+* 🔥 Firebase Integration (Auth, Realtime DB, Firestore)
+* 🌐 REST API Development & Integration
+* 🗄️ Database Design (MySQL, SQL Server)
+* 🧩 Data Structures & Algorithms (Problem Solving)
+* ☁️ Basics of Cloud (Azure / Firebase Hosting)
+* 🧪 Software Testing & Debugging Techniques
+* 🎨 Frontend Enhancements (JavaScript, Animations, UI polish)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:hariomp012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -135,16 +119,7 @@
 
 ## 💬 Dev Philosophy
 
-> “Focus is a superpower. I build tools that protect it.” 🚀
-
----
-
-## ⚡ Bonus
-
-✔️ Clean Code
-✔️ Real-World Projects
-✔️ Constant Learning
-✔️ Strong Discipline
+> “Focus is a superpower. the mind is a fucking crazy thing in this world just give it access and then it has potential to fuck the world.” 🚀
 
 ---
 
